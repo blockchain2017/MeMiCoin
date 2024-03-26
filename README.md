@@ -1,9 +1,9 @@
-# GMNTCoin, Ecosystem for the DeFi Protocols Technology
+# MemiCoin Ecosystem the Web3 Technology
 <div align="center"><img src="https://memicoin.com/wp-content/uploads/2024/03/01eca7011bc3c78c4db4c870867859ed-removebg-preview.fw_.png" /><br />
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.gmnt.org/" target="_blank">Go to Website<br />
+    <a href="https://memicoin.com/" target="_blank">Go to Website<br />
     </a></h1>
 </div>
 Welcome to the DeFi technology earning program. Revolutionary platform that yields real-world rewards on blockchain. Use GMNT  ์manage. Subsets of the project include Marketplace, Payment, NFT market, Decentralized exchange.
